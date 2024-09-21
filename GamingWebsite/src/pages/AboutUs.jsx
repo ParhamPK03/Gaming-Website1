@@ -21,7 +21,7 @@ const Aboutus = () => {
         <div className='flex lg:flex-row flex-col justify-center  lg:justify-between mt-10 items-center'>
         {/* Text */}
           <div className='mt-20 text-gray-500 lg:text-start text-center items-center'>
-            <h3 className='text-red-600 text-2xl font-medium'>چرا RAZOX رو انتخواب کنم</h3>
+            <h3 className='text-red-600 text-2xl font-medium'>چرا RAZOX رو انتخاب کنم</h3>
             <div className='mt-5 space-y-4 text-lg '>
             <p>ارسال مرسوله به سریع ترین حالت ممکن</p>
             <p>قابلیت مرجوعی کالا تا 7 روز پس از تحویل</p>
