@@ -121,7 +121,7 @@ const Footer = () => {
             </div>
             {/* Bottom */}
             <div className='flex flex-col md:flex-row justify-around mt-20 bg-[#000000] w-[80%] mx-auto h-[90px] items-center rounded-t-2xl'>
-                <h6 className='text-xs lg:text-base text-gray-400'>Developed By Parham Pourkhani</h6>
+                <h6 className='text-xs lg:text-base text-gray-400'>Developed By Mr-Pourkhani</h6>
                 <img className='lg:w-[230px] w-[180px] h-[26px]' src={Pay} alt="Logo" />
             </div>
         </div>
